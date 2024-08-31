@@ -2,7 +2,7 @@
 description: This is our Standard Operating Procedures for working with Marine units.
 ---
 
-# Madison County Sheriff Marine Units
+# Madison County Sheriff Marine SOP
 
 * Section 1 - Requirements To Activate & Begin a Mission.
 *
@@ -31,6 +31,54 @@ description: This is our Standard Operating Procedures for working with Marine u
 * Section 5 - Disciplinary Action:
 *
   * 5.1 - Disciplinary Action & How it is handled
+
+### Section 1
+
+### 1.1 - What Is A Mission & RTO How-To&#x20;
+
+* A mission is when the marine unit is properly Activated And Deployed. A mission does not start until the vessel is in the water, the crew is boarded, and your communications calls into RTO.&#x20;
+
+### 1.2 Mission Types & Call Signs.
+
+* There are two mission types. The first type is a Patrol Mission. (P-Day) This is activated when units are going to patrol the waters, not responding to a specific call when the vessel & crew are activated. The second type of mission is a Response Mission. This is activated when the vessel & crew are not already underway and need to be activated to respond. All Response Missions shall be named and reported in the mission log form. The mission name is up to the lead crewmember, DO NOT argue over mission names. Make the name related to the reason for activating.
+* When you activate the vessel & crew for a patrol mission, call into RTO as follows. Marine (designated number) Show us underway operating under mission P-Day.&#x20;
+* When you activate the vessel & crew for a Response Mission, call into RTO as follows. Marine (designated number) Show us underway operating under the mission (Chosen Mission Name)
+
+### Section 1
+
+### 1.1 - What Is A Mission & RTO How-To&#x20;
+
+* A mission is when the marine unit is properly Activated And Deployed. A mission does not start until the vessel is in the water, the crew is boarded, and your communications calls into RTO.&#x20;
+
+### 1.2 Mission Types & Call Signs.
+
+* There are two mission types. The first type is a Patrol Mission. (P-Day) This is activated when units are going to patrol the waters, not responding to a specific call when the vessel & crew are activated. The second type of mission is a Response Mission. This is activated when the vessel & crew are not already underway and need to be activated to respond. All Response Missions shall be named and reported in the mission log form. The mission name is up to the lead crewmember, DO NOT argue over mission names. Make the name related to the reason for activating.
+* When you activate the vessel & crew for a patrol mission, call into RTO as follows. Marine (designated number) Show us underway operating under mission P-Day.&#x20;
+* When you activate the vessel & crew for a Response Mission, call into RTO as follows. Marine (designated number) Show us underway operating under the mission (Chosen Mission Name)
+
+### Section 2
+
+### 2.1 - What Is A Mission & RTO How-To&#x20;
+
+* A mission is when the marine unit is properly Activated And Deployed. A mission does not start until the vessel is in the water, the crew is boarded, and your communications calls into RTO.&#x20;
+
+### 2.2 Mission Types & Call Signs.
+
+* There are two mission types. The first type is a Patrol Mission. (P-Day) This is activated when units are going to patrol the waters, not responding to a specific call when the vessel & crew are activated. The second type of mission is a Response Mission. This is activated when the vessel & crew are not already underway and need to be activated to respond. All Response Missions shall be named and reported in the mission log form. The mission name is up to the lead crewmember, DO NOT argue over mission names. Make the name related to the reason for activating.
+* When you activate the vessel & crew for a patrol mission, call into RTO as follows. Marine (designated number) Show us underway operating under mission P-Day.&#x20;
+* When you activate the vessel & crew for a Response Mission, call into RTO as follows. Marine (designated number) Show us underway operating under the mission (Chosen Mission Name)
+
+### Section 3
+
+### 3.1 - What Is A Mission & RTO How-To&#x20;
+
+* A mission is when the marine unit is properly Activated And Deployed. A mission does not start until the vessel is in the water, the crew is boarded, and your communications calls into RTO.&#x20;
+
+### 3.2 Mission Types & Call Signs.
+
+* There are two mission types. The first type is a Patrol Mission. (P-Day) This is activated when units are going to patrol the waters, not responding to a specific call when the vessel & crew are activated. The second type of mission is a Response Mission. This is activated when the vessel & crew are not already underway and need to be activated to respond. All Response Missions shall be named and reported in the mission log form. The mission name is up to the lead crewmember, DO NOT argue over mission names. Make the name related to the reason for activating.
+* When you activate the vessel & crew for a patrol mission, call into RTO as follows. Marine (designated number) Show us underway operating under mission P-Day.&#x20;
+* When you activate the vessel & crew for a Response Mission, call into RTO as follows. Marine (designated number) Show us underway operating under the mission (Chosen Mission Name)
 
 ### Section 1
 
