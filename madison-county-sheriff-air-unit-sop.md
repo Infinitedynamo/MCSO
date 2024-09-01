@@ -218,15 +218,13 @@ e. The NCO on call will notify the Troop Officer on call.
 
 f. If Aviation is unable to/or does not respond they shall inform the Post NCO at the time of the request.
 
-2\. Routine Support to GSP - Routine requests for support to the GSP should be made through the proper chain of command to the Troop Commander.
+2\. Routine Support to MCSO - Routine requests for support to the MCSO should be made through the proper chain of command to the Troop Commander.
 
 3\. Emergency Support to other agencies
 
-a. In an emergency, any member of another public safety agency may request air support directly from the GSP Aviation Unit.
+a. In an emergency, any member of another public safety agency may request air support directly from the MCSO Aviation Unit.
 
-b. The pilot responding to the request will notify the Post in whose territory the assistance will be provided. The person who receives the notification at the  Post will be responsible for notifying the NCO on call. The NCO on call will
-
-notify the Troop Officer on call.
+b. The pilot responding to the request will notify the Post in whose territory the assistance will be provided. The person who receives the notification at the  Post will be responsible for notifying the NCO on call. The NCO on call will notify the Officer on call.
 
 4\. Routine Support to other agencies
 
