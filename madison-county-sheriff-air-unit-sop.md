@@ -1,12 +1,35 @@
 # Madison County Sheriff Air Unit SOP
 
+* Section 1 - Requirements To Activate & Begin a Mission.
+*
+  * 1.1 - What Is A Mission & RTO How To
+  * 1.2 - Mission Types & Call Signs
+  * 1.3 - Goals And Objectives
+  * 1.4 - Duty Uniform Structure
+  * 1.5 - General Operating Policies & Responsibilities of MCSO Pilots\
+    \
+    \
 
+* Section 2 - Care, Usage, And Handling Of Equipment.
+*
+  * 2.1 -  Care & Handling Of Unit Vehicles, Aircraft, And Trailers
+  * 2.2 -  Equipment Check\
+    \
+    \
+
+* Section 3 - General Operational Policies
+* 3.1 - Special Weapons Care & Use\
+  \
+  \
+
+* Section 4 - Disciplinary Action:
+* 4.1 - Disciplinary Action & How it is handled
 
 The purpose of this policy is to establish guidelines for requesting and utilizing the services of the Madison County Sheriff's Office Aviation Unit. The Aviation Unit maintains a separate operations manual for routine daily operations of the unit, which shall comply with and be subordinate to this policy. The operations manual will be made available on request for official use.
 
-**25.01.2 Policy**
 
-It is the policy of the Department of Public Safety that all Department aircraft shall be used only for lawful and authorized purposes. The GSP Aviation Unit provides air support to state, local, and federal agencies. The Unit’s first priority in missions is support to those missions that may involve life or death situations or high risk to public safety. The unit’s first priority to agencies is support to the MCSO and its statutory mission, including security protection for the Governor, Lieutenant Governor, Speaker of the House and their immediate families.
+
+It is the policy of the Department of Public Safety that all Department aircraft shall be used only for lawful and authorized purposes. The Madison County Sheriffs Office Aviation Unit provides air support to state, local, and federal agencies. The Unit’s first priority in missions is support to those missions that may involve life or death situations or high risk to public safety. The unit’s first priority to agencies is support to the MCSO and its statutory mission, including security protection for the Governor, Lieutenant Governor, Sheriff, Assistant Sheriff, An their Immediate family's
 
 
 
@@ -48,55 +71,51 @@ c. Contractors – Private Persons while performing functions for State/County a
 
 d. Such other persons as approved in writing by the Sheriff, the Deputy Sheriffs, Head of the Mobility Division with a written explanation as to the tangible benefit received by the carriage.
 
-e. When the Pilot or the Head of the Mobility Division determines that carriage of a person not otherwise permitted by policy is required due to an emergency or outlined indical emergency, such person may be carried. Within three calendar days, a written explanation as to the emergency situation shall be made to the Sheriff or Head of the Mobility Division and attached to the Flight Report.
+e. When the Pilot or the Head of the Mobility Division determines that carriage of a person not otherwise permitted by policy is required due to an emergency or outlined indicial emergency, such person may be carried. Within three calendar days, a written explanation as to the emergency situation shall be made to the Sheriff or Head of the Mobility Division and attached to the Flight Report.
 
-5\. Members of boards, agencies, commissions, and bureaus of the State of Georgia.
+5\. Members of boards, agencies, commissions, and bureaus of the State of Kentucky.
 
-6\. Other passengers meeting the qualifications set out in O.C.G.A. § 35-2-73 which includes providing transportation to the Governor, Lieutenant Governor, Speaker of the House and their immediate family members. For purposes of this policy, immediate family members mean those members of the official’s family who reside with that official as part of the household. Further, immediate family members are authorized to travel in Department aircraft in the following three circumstances:
+6\. Other passengers meeting the qualifications set out in by the Madison County Sheriffs Office Mobility Division which includes providing transportation to the Governor, Lieutenant Governor, Sheriff, Assistant Sheriff and their immediate family members. For purposes of this policy, immediate family members mean those members of the official’s family who reside with that official as part of the household. Further, immediate family members are authorized to travel in Department aircraft in the following three circumstances:
 
 a. When traveling with the protected official relative;
 
-b. When traveling at the request of the protected official relative for State business, or
+b. When traveling at the request of the protected official relative for County or State Business
 
 c. When, in accordance with the procedure set forth in subsection E, 7 of this section, it has been determined that security requirements dictate the use of Department aircraft to transport an immediate family member.
 
 D. Out-of-State Travel
 
-1\. Travel to out-of-state destinations is prohibited unless there has been prior approval by the Commissioner or his designee.
+1\. Travel to out-of-state destinations is prohibited unless there has been prior approval by the Sheriff or Head of the Mobility Division or his designee.
 
-2\. For purposes of this provision, the Commissioner’s designee shall be the Deputy Commissioner or such other person who has received a written delegation of authority.
+2\. For purposes of this provision, the Commissioner’s designee shall be the Deputy Director of the Mobility Division or such other person who has received a written delegation of authority.
 
 E. Flight Requests
 
-1\. Emergency Support to GSP
+1\. Emergency Support to the County or State
 
-a. In an emergency, any member of the GSP may request air support from the Aviation Unit.
+A. In an emergency, any member of the MCSO may request air support from the Aviation Unit.
 
-b. Except when the request is from a member above a post commander in the chain of command, the member wishing to request air support should first contact the NCO on call in the post territory where the request originates.
+B. The NCO on call will decide as to whether to request air support.
 
-c. The NCO on call will decide as to whether to request air support.
+C. Once approved by the NCO on call, the request may be made by the NCO on call or by the member originally seeking air support and should be made by the most expeditious means available, directly to the Aviation Unit.
 
-d. Once approved by the NCO on call, the request may be made by the NCO on call or by the member originally seeking air support and should be made by the most expeditious means available, directly to the Aviation Unit.
+D. The NCO on call will notify the Department Officer on call.
 
-e. The NCO on call will notify the Troop Officer on call.
+E. If Aviation is unable to/or does not respond they shall inform the NCO at the time of the request.
 
-f. If Aviation is unable to/or does not respond they shall inform the Post NCO at the time of the request.
-
-2\. Routine Support to GSP - Routine requests for support to the GSP should be made through the proper chain of command to the Troop Commander.
+2\. Routine Support to MCSO - Routine requests for support to the MCSO should be made through the proper chain of command to the Division Commander.
 
 3\. Emergency Support to other agencies
 
-a. In an emergency, any member of another public safety agency may request air support directly from the GSP Aviation Unit.
+a. In an emergency, any member of another public safety agency may request air support directly from the MCSO Aviation Unit.
 
-b. The pilot responding to the request will notify the Post in whose territory the assistance will be provided. The person who receives the notification at the  Post will be responsible for notifying the NCO on call. The NCO on call will
-
-notify the Troop Officer on call.
+b. The pilot responding to the request will notify whose territory the assistance will be provided. The person who receives the notification of the activation will be responsible for notifying the NCO on call. The NCO on call will notify the Officer on call.
 
 4\. Routine Support to other agencies
 
 a. Routine requests from other agencies should be made to either the field hangar in the area where the request originates or to the Aviation Unit Headquarters.
 
-b. The Pilot responding to the request will notify the Post in whose territory the assistance will be provided. The pcannotceives the notification at the  Post will be responsible for notifying the NCO on call. The NCO on call will notify the Troop Officer on call.
+b. The Pilot responding to the request will notify the Office in whose territory the assistance will be provided. The Person Or Deputy the notification at the office will be responsible for notifying the NCO on call. The NCO on call will notify the Officer on call.
 
 5\. Part-time aircrew support
 
