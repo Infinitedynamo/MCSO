@@ -1,30 +1,5 @@
 # Madison County Sheriff Air Unit SOP
 
-* Section 1 - Requirements To Activate & Begin a Mission.
-*
-  * 1.1 - What Is A Mission & RTO How To
-  * 1.2 - Mission Types & Call Signs
-  * 1.3 - Goals And Objectives
-  * 1.4 - Duty Uniform Structure
-  * 1.5 - General Operating Policies & Responsibilities of MCSO Pilots\
-    \
-    \
-
-* Section 2 - Care, Usage, And Handling Of Equipment.
-*
-  * 2.1 -  Care & Handling Of Unit Vehicles, Aircraft, And Trailers
-  * 2.2 -  Equipment Check\
-    \
-    \
-
-* Section 3 - General Operational Policies
-* 3.1 - Special Weapons Care & Use\
-  \
-  \
-
-* Section 4 - Disciplinary Action:
-* 4.1 - Disciplinary Action & How it is handled
-
 The purpose of this policy is to establish guidelines for requesting and utilizing the services of the Madison County Sheriff's Office Aviation Unit. The Aviation Unit maintains a separate operations manual for routine daily operations of the unit, which shall comply with and be subordinate to this policy. The operations manual will be made available on request for official use.
 
 
@@ -123,37 +98,33 @@ a. In an emergency, the pilot responding to the call will notify the Tactical Fl
 
 b. Upon notification, the TFO will be considered detached to the Aviation Unit and will be under the direct supervision of the Aviation Unit Commander or their designee for the duration of the mission.
 
-c. The pilot will notify the Post where the TFO is assigned and provide details of the available mission.
+c. The pilot will notify the Office where the TFO is assigned and provide details of the available mission.
 
-d. The person who receives the notification at the Post will be responsible for notifying the NCO on call of the mission and the TFO’s deployment.
+d. The person who receives the notification at the Office will be responsible for notifying the NCO on call of the mission and the TFO’s deployment.
 
 6\. Transport of persons
 
-a. The Department will accept requests for transportation from the Office of the Governor, Members of the General Assembly, and, where consistent with the public safety mission of the Department, those acting on the authority of
+a. The Department will accept requests for transportation from the Office of the Governor, Sheriff, and, where consistent with the public safety mission of the Department, those acting on the authority of Chief Executive Officers, or their designee, of departments, agencies, or authorities of the State of Kentucky.
 
-Chief Executive Officers, or their designee, of departments, agencies, or authorities of the State of Georgia.
-
-b. Department aircraft may only be used to conduct business in the  State of Georgia. Guidelines that govern this decision are based on the State deriving a benefit from the scheduled flight. Department aircraft may not be used for any flight or discrete leg of a flight that has only non-public (private or political) purposes. It is not a violation of this policy for a Department aircraft to be used for a flight to a destination where the official may participate in both a legitimate public purpose as well as either a private or political purpose. If there is a political purpose or function at a destination where there was also a public purpose or function, the official must reimburse the Department the costs of the use of the aircraft that is
-
-apportioned to the political purpose. There is no reimbursement related to private functions at the same destination as a public function unless additional costs for the flight are accrued as a result of the official attending the private function, in which case the additional costs will be reimbursed to the department.
+b. Department aircraft may only be used to conduct business in the Madison County Area/ State of Kentucky (If requested). Guidelines that govern this decision are based on the County deriving a benefit from the scheduled flight. Department aircraft may not be used for any flight or discrete leg of a flight that has only non-public (private or political) purposes. It is not a violation of this policy for a Department aircraft to be used for a flight to a destination where the official may participate in both a legitimate public purpose as well as either a private or political purpose. If there is a political purpose or function at a destination where there was also a public purpose or function, the official must reimburse the Department the costs of the use of the aircraft that is apportioned to the political purpose. There is no reimbursement related to private functions at the same destination as a public function unless additional costs for the flight are accrued as a result of the official attending the private function, in which case the additional costs will be reimbursed to the department.
 
 7\. Transport for Executive Security Reasons
 
-a. Anytime the Commissioner of Public Safety or his designee (i.e., for this purpose, Deputy Commissioner, Commanding Officer, or such other person who has received a written delegation of authority) has determined that transportation in Department aircraft is necessary for executive security purposes, the flight is considered appropriate under this policy.
+a. Anytime the Sheriff or his designee (i.e., for this purpose, Deputy Sheriff, Commanding Officer, or such other person who has received a written delegation of authority) has determined that transportation in Department aircraft is necessary for executive security purposes, the flight is considered appropriate under this policy.
 
-b. Such determination must be in writing and must be documented with supporting reasons that indicate that transportation in a Department aircraft is preferred for security reasons over other transportation. When possible, the written determination should be prepared before the flight, but may, when required by circumstances, be prepared at a reasonable time after the flight. A copy of this determination will be filed in the Commissioner’s Office and the office of the Commanding Officer.
+b. Such determination must be in writing and must be documented with supporting reasons that indicate that transportation in a Department aircraft is preferred for security reasons over other transportation. When possible, the written determination should be prepared before the flight, but may, when required by circumstances, be prepared at a reasonable time after the flight. A copy of this determination will be filed in the Sheriff's Office and the Office of the Mobility Division
 
 F. Flight Report
 
-1\. Pilots shall complete a flight report for each flight by a state aircraft. The pilot will list all touchdowns with the times, locations, and purpose of the landings. The state agency, board, commission, etc., and the purpose of the flight must be shown unless disclosure would jeopardize the mission or compromise public safety measures.
+1\. Pilots shall complete a flight report for each flight by a County aircraft. The pilot will list all touchdowns with the times, locations, and purpose of the landings. The agency, board, commission, etc., and the purpose of the flight must be shown unless disclosure would jeopardize the mission or compromise public safety measures.
 
 2\. The number of passengers must always be listed on the flight report. Unless disclosure would jeopardize the mission or compromise public safety measures, pilots shall ensure that the names of all passengers are included on the flight report except in the following situations:
 
-a. At the discretion of the Governor or the Commissioner of Industry and Trade, the names and positions of officers or representatives of industry on industry-seeking activities need not be recorded.
+a. At the discretion of the Governor, Lt. Governor, Sheriff, Assistant Sheriff or the Head of Industry and Trade, the names and positions of officers or representatives of industry on industry-seeking activities need not be recorded.
 
-b. The Governor, at his sole discretion, may decline to list the names and positions of the passengers accompanying him on the flight.
+b. The Sheriff, at his sole discretion, may decline to list the names and positions of the passengers accompanying him on the flight.
 
-c. The Commissioner or the Deputy Commissioner has approved or directed​ the omission of the names of any passenger or passengers.
+c. The Sheriff or the Assiatant Commissioner has approved or directed​ the omission of the names of any passenger or passengers.
 
 3\. Additional information may be documented as specified in the Aviation Operations Manual.
 
